@@ -8,7 +8,7 @@
 
 const fs = require('fs')
 
-global.owner = "6281351692548"
+global.owner = "6281233959931"
 global.linkch = "https://whatsapp.com/channel/0029Vask3D80rGiHtQYeeo27"
 
 global.status = true
@@ -22,7 +22,7 @@ global.mess = {
 
 global.packname = '¿? laurine'
 global.author = 'https://www.kyuurzy.tech'
-global.pairing = "PELERRRR"
+global.pairing = "ALDYRRQQ"
 
 global.KEY = "GET APIKEY elevenlabs.io"
 global.IDVOICE = "GET ON elevenlabs.io"
